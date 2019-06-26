@@ -17,12 +17,6 @@
 * [StopWatch](general/stopwatch.md)
 * [Permissons](general/permissons.md)
 
-## Overlay <a id="feedback"></a>
-
-* [Dialog](feedback/dialog.md)
-* [Modal](feedback/modal.md)
-* [Overlay Panel](feedback/overlay-panel.md)
-
 ## Data Entry
 
 * [Autocomplete](data-entry/autocomplete.md)
@@ -56,6 +50,12 @@
 * [Listbox](data-display/listbox.md)
 * [Timeline](data-display/timeline.md)
 * [Tooltip](data-display/tooltip.md)
+
+## Overlay <a id="feedback"></a>
+
+* [Dialog](feedback/dialog.md)
+* [Modal](feedback/modal.md)
+* [Overlay Panel](feedback/overlay-panel.md)
 
 ## Feedback <a id="feedback-1"></a>
 
