@@ -15,6 +15,7 @@
 * [Split Button](general/split-button.md)
 * [Shortcut](general/shortcut.md)
 * [StopWatch](general/stopwatch.md)
+* [Permissons](general/permissons.md)
 
 ## Overlay <a id="feedback"></a>
 
@@ -28,8 +29,15 @@
 * [Checkbox](data-entry/checkbox.md)
 * [Dropdown Icon](data-entry/dropdown-icon.md)
 * [Dropdown List](data-entry/dropdown-list.md)
+* [Input Mask](data-entry/input-mask.md)
+* [Input Text](data-entry/input-text.md)
+* [Input Currency](data-entry/input-currency.md)
+* [Input Validators](data-entry/input-validators.md)
 * [Editor](data-entry/editor.md)
 * [Multiselect](data-entry/multiselect.md)
+* [Radio Button](data-entry/radio-button.md)
+* [Switch](data-entry/switch.md)
+* [Textarea](data-entry/textarea.md)
 
 ## Data Display
 
@@ -45,6 +53,7 @@
   * [Row Models](data-display/datatable/row-models.md)
   * [Column Features](data-display/datatable/column-features.md)
 * [Navigator](data-display/navigator.md)
+* [Listbox](data-display/listbox.md)
 * [Timeline](data-display/timeline.md)
 * [Tooltip](data-display/tooltip.md)
 
@@ -52,6 +61,12 @@
 
 * [Loader](feedback-1/untitled.md)
 * [ProgressBar](feedback-1/progressbar.md)
+
+## Layout <a id="layout-1"></a>
+
+* [Panel Group](layout-1/panel-group.md)
+* [Multiview](layout-1/multiview.md)
+* [TabControl](layout-1/tabcontrol.md)
 
 ## Navigation <a id="layout"></a>
 
