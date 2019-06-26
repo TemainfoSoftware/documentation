@@ -31,9 +31,10 @@ We assume that you have already installed the following packages at least and ar
 
 3. Configure styles of used font packages \(Icon Packages are already installed when running npm install truly-ui\):
 
-   Inside the `angular.json` file add the following paths to the `styles` key
+   Inside the `angular.json` file add the following paths to the `styles` key.  
 
-   ```text
+
+   ```javascript
     "styles": [
           "src/styles.css",
           ...
@@ -70,9 +71,9 @@ We assume that you have already installed the following packages at least and ar
    export class AppModule { }
    ```
 
-   **Usage**
+## **Usage**
 
-   The use of the components is basically the importation of the main module and the use of the directives in its application: Example is the import of the input module and its use
+The use of the components is basically the importation of the main module and the use of the directives in its application: Example is the import of the input module and its use**.**
 
 ```typescript
 import { BrowserModule } from '@angular/platform-browser';
