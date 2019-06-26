@@ -20,7 +20,9 @@
 ## Data Entry
 
 * [Autocomplete](data-entry/autocomplete.md)
+* [Color Picker](data-entry/color-picker.md)
 * [Checkbox](data-entry/checkbox.md)
+* [Date Picker](data-entry/date-picker.md)
 * [Dropdown Icon](data-entry/dropdown-icon.md)
 * [Dropdown List](data-entry/dropdown-list.md)
 * [Input Mask](data-entry/input-mask.md)
@@ -32,6 +34,7 @@
 * [Radio Button](data-entry/radio-button.md)
 * [Switch](data-entry/switch.md)
 * [Textarea](data-entry/textarea.md)
+* [Time Picker](data-entry/time-picker.md)
 
 ## Data Display
 
@@ -48,7 +51,11 @@
   * [Column Features](data-display/datatable/column-features.md)
 * [Navigator](data-display/navigator.md)
 * [Listbox](data-display/listbox.md)
-* [Timeline](data-display/timeline.md)
+* [Timeline](data-display/timeline/README.md)
+  * [Overview](data-display/timeline/overview.md)
+  * [Infinite Scroll](data-display/timeline/infinite-scroll.md)
+  * [Dynamic Template](data-display/timeline/dynamic-template.md)
+* [Time Available](data-display/time-available.md)
 * [Tooltip](data-display/tooltip.md)
 
 ## Overlay <a id="feedback"></a>
@@ -57,20 +64,32 @@
 * [Modal](feedback/modal.md)
 * [Overlay Panel](feedback/overlay-panel.md)
 
+## Form
+
+* [Overview](form/overview.md)
+* [Inline Form](form/inline-form.md)
+* [Modal Form](form/modal-form.md)
+* [Smart Form](form/smart-form.md)
+
 ## Feedback <a id="feedback-1"></a>
 
 * [Loader](feedback-1/untitled.md)
 * [ProgressBar](feedback-1/progressbar.md)
+* [Toaster](feedback-1/toaster.md)
 
 ## Layout <a id="layout-1"></a>
 
 * [Panel Group](layout-1/panel-group.md)
 * [Multiview](layout-1/multiview.md)
+* [Sidebar](layout-1/sidebar.md)
 * [TabControl](layout-1/tabcontrol.md)
+* [Toolbar](layout-1/toolbar.md)
 
 ## Navigation <a id="layout"></a>
 
+* [Context Menu](layout/context-menu.md)
 * [Menu](layout/menu.md)
+* [Popup Menu](layout/popup-menu.md)
 
 ## Community
 
