@@ -53,6 +53,7 @@
   * [Column Features](data-display/datatable/column-features.md)
 * [Navigator](data-display/navigator.md)
 * [Listbox](data-display/listbox.md)
+* [Schedule  🆕](data-display/schedule.md)
 * [Timeline](data-display/timeline/README.md)
   * [Overview](data-display/timeline/overview.md)
   * [Infinite Scroll](data-display/timeline/infinite-scroll.md)
